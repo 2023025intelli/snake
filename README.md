@@ -1,6 +1,5 @@
-# Snake
-### Enjoy!
+## Snake game written in C using ncurses.
 
-![](demo/demo.gif)
+###
 
-
+![](demo.gif)
